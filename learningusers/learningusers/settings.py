@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-5g%w!nfz21hq)8f81sizcpvj%awth7=u=$&t2jl_cfa51+k(^(
 DEBUG = True
 
 ALLOWED_HOSTS = ['suhasjagtap.pythonanywhere.com']
-
+ALLOWED_HOSTS
 
 # Application definition
 
